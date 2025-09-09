@@ -1,2 +1,2 @@
-# Stu-inf
+# student-portal
 Stu info protal
